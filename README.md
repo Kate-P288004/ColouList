@@ -22,8 +22,7 @@ Optional Hex box + live preview
 Error handling & validation
   - Duplicate name checks (case-insensitive).
   - Validates hex format '#RRGGBB' and shows messages in 'labelErrorMsg'.
-Build errors cleaned
-  - Removed newer C# syntax; all code is C# 7.3–safe.
+
 
 ---
 
